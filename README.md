@@ -10,7 +10,7 @@
  
 
  * Use this command from a shell to build the program
-   g++ -o my_progam -std=c++1z -O2 -Wall -pedantic csvparser.cpp -lstdc++fs
+ ###  g++ -o my_progam -std=c++1z -O2 -Wall -pedantic csvparser.cpp -lstdc++fs
    
 * Design considerations 
 
