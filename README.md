@@ -1,11 +1,9 @@
 # csv_parser
 
-This C++ application
-    1. to read and process 3 csv files, as shown in the below 3 tables
-    2. to calculate a total spending of a certain scope, 
-   an application in C++
-    1. to read and process 3 csv files, as shown in the below 3 tables
-    2. to calculate a total spending of a certain scope, 
+## This C++ application
+
+    1. read and process 3 csv files, as shown in the below 3 tables
+    2. calculate a total spending of a certain scope, 
         e.g. the total spending of the residents on Amsterdam Aalbersestraat is: Amsterdam Aalbersestraat 34 and Amsterdam Aalbersestraat 98
                  Amsterdam Aalbersestraat 34 = (1 * 100 + 1 * 200 + 2 * 300) * 1.8
                  Amsterdam Aalbersestraat 98 = (2 * 400) * 1.8
