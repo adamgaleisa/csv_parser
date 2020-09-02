@@ -1,0 +1,12 @@
+Country,City,Street,HouseNumber,Num_Resident_Age_0,Num_Resident_Age_1,Num_Resident_Age_2,Num_Resident_Age_3
+Netherlands,Amsterdam,Aalbersestraat,34,1,1,2,0
+Netherlands,Den Haag,Veldzicht,54,0,0,0,2
+Netherlands,Delft,Langebrugsteeg,98,2,0,1,0
+Netherlands,Amsterdam,Bernabeuhof,67,0,0,4,0
+Netherlands,Den Haag,Wilnisgracht,112,0,0,5,0
+Netherlands,Zwolle,Majanggracht,214,0,0,1,0
+Netherlands,Amsterdam,Aalbersestraat,98,0,0,0,2
+Netherlands,Gouda,Turnhoutplantsoen,78,0,0,3,0
+Netherlands,Den Haag,Zonneweg,254,1,2,2,0
+Netherlands,Rotterdam,Blasiusstraat,33,1,0,1,0
+Netherlands,Den Haag,Ward Bingleystraat,56,0,0,0,2
