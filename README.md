@@ -2,7 +2,7 @@
 
 ## This C++ application
 
-    1. read and process 3 csv files, as shown in the below 3 tables
+    1. read and process 3 csv files, resides in local directory
     2. calculate a total spending of a certain scope, 
         e.g. the total spending of the residents on Amsterdam Aalbersestraat is: Amsterdam Aalbersestraat 34 and Amsterdam Aalbersestraat 98
                  Amsterdam Aalbersestraat 34 = (1 * 100 + 1 * 200 + 2 * 300) * 1.8
