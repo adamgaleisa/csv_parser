@@ -7,6 +7,10 @@
         e.g. the total spending of the residents on Amsterdam Aalbersestraat is: Amsterdam Aalbersestraat 34 and Amsterdam Aalbersestraat 98
                  Amsterdam Aalbersestraat 34 = (1 * 100 + 1 * 200 + 2 * 300) * 1.8
                  Amsterdam Aalbersestraat 98 = (2 * 400) * 1.8
+    the scope can be defined as <a list of cities, a list of streets, a list of house numbers>,
+    e.g. <Amsterdam,,> : the spending of all residents in Amsterdam
+    <Amsterdam, Aalbersestraat, > : the spending of all residents in Amsterdam Aalbersestraat
+   <Amsterdam, Aalbersestraat, 34,98> : the spending of all residents in Amsterdam Aalbersestraat 38 and 98
  
 
  * Use this command from a shell to build the program
